@@ -7,7 +7,7 @@ This project presents a comprehensive *Ecommerce Sales Dashboard* built using *P
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="C:\Users\User\Desktop\Projects\Dashboard.png" width="700" alt="Ecommerce Dashboard">
+  <img src="./assets/Dashboard.png" width="700" alt="Ecommerce Dashboard">
 </p>
 
 ----
